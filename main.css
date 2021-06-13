@@ -1,0 +1,57 @@
+*{
+    color: white;
+}
+
+header{
+    background-color: black;
+    
+}
+
+body div div{
+    background-color: aquamarine;
+}
+
+.topTitle{
+    padding: 40px 0px 0px 24px ;
+    font-weight: bold;
+    color: skyblue;
+}
+
+
+.str{
+    color: white;
+}
+.mya{
+
+    color: white;
+    margin: 0px;
+    padding: 0px 5px;
+    background-color: skyblue;
+    font-size: small;
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+
+.active{
+    margin-left: 24px;
+}
+
+header .nav{
+    background-color: skyblue;
+    height: 30px;
+}
+
+footer p{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 5px;
+}
+
+.bodys{
+    background-color: violet;
+    height: 500px;
+}
+
+
